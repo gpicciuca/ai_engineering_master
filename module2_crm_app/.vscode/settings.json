@@ -1,0 +1,15 @@
+{
+	"files.associations": {
+		"*.embeddedhtml": "html",
+		"string": "cpp",
+		"type_traits": "cpp"
+	},
+	"clang-format.executable": "clang-format",
+	"clang-format.style": "file",
+	"clang-format.fallbackStyle": "Google",
+	"clang-format.formatOnSave": true,
+	"clang-format.formatOnType": true,
+	"clang-format.arguments": [
+		"-assume-filename=${workspaceFolder}/.clang-format"
+	]
+}
