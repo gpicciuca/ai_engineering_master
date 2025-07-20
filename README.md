@@ -7,3 +7,5 @@
 5. [Company's sentiment analysis on social medias](https://github.com/gpicciuca/ml_deploy)
 6. [Vehicles and Animals detection](https://github.com/gpicciuca/ai_engineering_master/tree/main/module6_deeplearning)
 7. [Performance optimizations of a NN for the food industry](https://github.com/gpicciuca/ai_engineering_master/tree/main/module7_torch_nn_optimization)
+8. Flower recognition for an AgriTech company
+9. [Cybersecurity for healthcase through Reinforcement Learning](https://github.com/gpicciuca/ai_engineering_master/tree/main/module9_rl_cybersecurity)
