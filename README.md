@@ -10,3 +10,4 @@
 8. Flower recognition for an AgriTech company
 9. [Cybersecurity for healthcase through Reinforcement Learning](https://github.com/gpicciuca/ai_engineering_master/tree/main/module9_rl_cybersecurity)
 10. [Data Augmentation for powerplants security](https://github.com/gpicciuca/ai_engineering_master/blob/main/module10_gen_ai/Project_Data_Augmentation_for_powerplants_security.ipynb)
+11. [Interpretation of a neural network for normative compliance](https://github.com/gpicciuca/ai_engineering_master/blob/main/module11_explainable_ai/Project_Interpretation_of_a_NN_for_normative_compliance.ipynb)
